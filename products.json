@@ -1,0 +1,32 @@
+[
+ {
+   	"codigo":"0001", 
+	"nombre":"Manzana",
+	"descripcion":"Redonda de color rojo de lurin",
+	"precio":"2.50"
+ },
+ {
+	"codigo":"0002", 
+	"nombre":"Naranja",
+	"descripcion":"wanda de chincha",
+	"precio":"1.50"
+ },
+ {
+	"codigo":"0003", 
+	"nombre":"Mandarina",
+	"descripcion":"sin pepa fresca",
+	"precio":"1.70"
+ },
+ {
+	"codigo":"0004", 
+	"nombre":"Fresa",
+	"descripcion":"cosechada con amor",
+	"precio":"4.75"
+ },
+ {
+	"codigo":"0005", 
+	"nombre":"Papaya",
+	"descripcion":"golden de la selva",
+	"precio":"2.00"
+ } 
+]
